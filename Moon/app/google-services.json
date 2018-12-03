@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620362314510",
+    "firebase_url": "https://moon-d06a8.firebaseio.com",
+    "project_id": "moon-d06a8",
+    "storage_bucket": "moon-d06a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620362314510:android:f4af430cdf47905d",
+        "android_client_info": {
+          "package_name": "com.bist.moon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620362314510-n4vnk0dfguoqb8tqvpqjj60mtoq4jshv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bist.moon",
+            "certificate_hash": "9e31a23c2e6b919b1598bc4210700695e0e963de"
+          }
+        },
+        {
+          "client_id": "620362314510-gp30mg5aev08r8jjueo0tbjevh6i3ran.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAfZWZZeEn25ROe2j6FSZOC_zqdJOc2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620362314510-gp30mg5aev08r8jjueo0tbjevh6i3ran.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
