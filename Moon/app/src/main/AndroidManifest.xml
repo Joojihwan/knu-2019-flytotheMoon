@@ -22,7 +22,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity" />
-        <activity android:name=".Login.Login"></activity>
+        <activity android:name=".Login.Login" />
+        <activity
+            android:name=".Login.LoginActivity"
+            android:label="@string/title_activity_login"></activity>
     </application>
 
 </manifest>
